@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>BasirComp</title>
+<title>websiteku</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
