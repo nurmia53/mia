@@ -18,7 +18,7 @@
    <p><b><center>Monumen Cinta Sejati Habibi Ainun</center></b></p>
    <p>
     Lokasi: Lapangan Andi Makkasau, Jl. Karaeng Burane, Mallusetasi, Ujung, Kota Pare-Pare, Sulawesi Selatan.<br><br>
-    Read more <br>
+    Read more <br><br><br>
     https://nyero.id/tempat-wisata-di-kota-pare-pare/
    </p>
    </td>
