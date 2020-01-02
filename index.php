@@ -17,8 +17,8 @@
    <td>
    <p><b><center>Monumen Cinta Sejati Habibi Ainun</center></b></p>
    <p>
-    Lokasi: Lapangan Andi Makkasau, Jl. Karaeng Burane, Mallusetasi, Ujung, Kota Pare-Pare, Sulawesi Selatan.<br><br>
-    Read more <br><br><br>
+    Lokasi: Lapangan Andi Makkasau, Jl. Karaeng Burane, Mallusetasi, Ujung, Kota Pare-Pare, Sulawesi Selatan.<br><br><br><br>
+    Read more <br>
     https://nyero.id/tempat-wisata-di-kota-pare-pare/
    </p>
    </td>
@@ -29,7 +29,7 @@
    <img src="Pantai_Pasir_Putih_Tonrangeng.jpg" class="gambar">
    <p><b><center>Pantai pasir Putih Tonrangeng</b></p></center>
    <p>
-    Lokasi: Jl. Latassakka, Lumpue, Bacukiki Barat., Kota Pare-Pare, Sulawesi Selatan<br><br>
+    Lokasi: Jl. Latassakka, Lumpue, Bacukiki Barat., Kota Pare-Pare, Sulawesi Selatan<br><br><br><br>
     Read more <br>
     https://nyero.id/tempat-wisata-di-kota-pare-pare/
    </p>
