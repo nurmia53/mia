@@ -10,29 +10,7 @@
    <div id="header">
    <h1>Welcome</h1>
 </div>
-<div id="menu">
-   
-     <div class="navigasi">
-     <h3>
-Menu Navigasi A</h3>
-<ul>
-<li><a href="link-1.html" >Link 1</a> </li>
-<li><a href="link-2.html" >Link 2</a> </li>
-<li><a href="link-3.html" >Link 3</a> </li>
-<li><a href="link-4.html" >Link 4</a> </li>
-</ul>
-</div>
-<div class="navigasi">
-     <h3>
-Menu Navigasi B</h3>
-<ul>
-<li><a href="link-1.html" >Link 1</a> </li>
-<li><a href="link-2.html" >Link 2</a> </li>
-<li><a href="link-3.html" >Link 3</a> </li>
-<li><a href="link-4.html" >Link 4</a> </li>
-</ul>
-</div>
-</div>
+
 <div id="isi">
   <tr>
     <td><img src="Monumen_Habibi_Ainun.png" class="gambar"></td>
